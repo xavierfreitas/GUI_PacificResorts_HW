@@ -3,3 +3,5 @@ https://www.w3schools.com/cssref/pr_background-image.php
 https://www.w3schools.com/cssref/css3_pr_text-overflow.php
 https://www.w3schools.com/cssref/pr_grid-auto-rows.php
 https://www.youtube.com/watch?v=EiNiSFIPIQE
+https://www.w3schools.com/css/css_list.asp
+https://stackoverflow.com/questions/7516005/how-to-make-a-bullet-list-align-with-text-in-css
