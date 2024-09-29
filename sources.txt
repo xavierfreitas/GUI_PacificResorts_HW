@@ -1,0 +1,5 @@
+Sources:
+https://www.w3schools.com/cssref/pr_background-image.php
+https://www.w3schools.com/cssref/css3_pr_text-overflow.php
+https://www.w3schools.com/cssref/pr_grid-auto-rows.php
+https://www.youtube.com/watch?v=EiNiSFIPIQE
